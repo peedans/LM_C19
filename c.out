@@ -1,0 +1,27 @@
+mode: set
+github.com/peedans/covid/covid19.go:29.48,32.16 2 1
+github.com/peedans/covid/covid19.go:36.2,37.16 2 1
+github.com/peedans/covid/covid19.go:41.2,43.56 2 1
+github.com/peedans/covid/covid19.go:47.2,47.22 1 1
+github.com/peedans/covid/covid19.go:32.16,34.3 1 0
+github.com/peedans/covid/covid19.go:37.16,39.3 1 0
+github.com/peedans/covid/covid19.go:43.56,45.3 1 0
+github.com/peedans/covid/covid19.go:50.63,55.29 3 1
+github.com/peedans/covid/covid19.go:67.2,67.15 1 1
+github.com/peedans/covid/covid19.go:55.29,56.23 1 1
+github.com/peedans/covid/covid19.go:56.23,58.4 1 1
+github.com/peedans/covid/covid19.go:58.9,58.67 1 1
+github.com/peedans/covid/covid19.go:58.67,60.4 1 1
+github.com/peedans/covid/covid19.go:60.9,60.39 1 1
+github.com/peedans/covid/covid19.go:60.39,62.4 1 1
+github.com/peedans/covid/covid19.go:62.9,62.39 1 1
+github.com/peedans/covid/covid19.go:62.39,64.4 1 1
+github.com/peedans/covid/covid19.go:70.73,74.29 3 1
+github.com/peedans/covid/covid19.go:82.2,82.20 1 1
+github.com/peedans/covid/covid19.go:74.29,75.28 1 1
+github.com/peedans/covid/covid19.go:75.28,77.4 1 1
+github.com/peedans/covid/covid19.go:77.9,79.4 1 1
+github.com/peedans/covid/covid19.go:85.13,88.34 2 0
+github.com/peedans/covid/covid19.go:100.2,101.16 2 0
+github.com/peedans/covid/covid19.go:88.34,99.3 4 0
+github.com/peedans/covid/covid19.go:101.16,103.3 1 0
